@@ -1,0 +1,14 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "3Q26PSWQ2V.com.easy.testaasa",
+             "paths": [ "NOT /help/website/*", "/help/*" ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "3Q26PSWQ2V.com.easy.testaasa" ]
+   }
+}
