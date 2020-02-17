@@ -4,7 +4,7 @@
       "details": [
            {
              "appID": "3Q26PSWQ2V.com.easy.testaasa",
-             "paths": [ "NOT /help/website/*", "/help/*" ]
+             "paths": [ "*", "NOT /help/website/*", "/help/*" ]
            }
        ]
    },
